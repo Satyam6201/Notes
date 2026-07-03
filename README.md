@@ -29,7 +29,6 @@ The repository is organized into multiple PDF files, each focusing on different 
 - **Comprehensive Coverage:** Questions span front-end, back-end, and full-stack development.
 - **Detailed Answers:** Most PDFs include thorough explanations for each question.
 - **Organized by Topics:** Makes it easier to focus on specific areas of improvement.
-
 ---
 
 ### 🌟 **Why Use This Repository?**
